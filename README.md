@@ -1,6 +1,6 @@
 # Project Description
 
-Unity "Roll a ball" game tutorial
+Unity "Roll a ball" game tutorial.
 
 ## How to play
 
